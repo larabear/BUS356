@@ -1,0 +1,6 @@
+- 2-player battleship game
+- before start, users specify (1)the number of rounds they want to play and (2)their names
+- for each round, users specify the grid size
+- the two players alternate in taking guesses, until one wins
+- at the end of each round, statistics of current number and rate of winnings are shown
+- after all rounds, games ends and announces the winner
